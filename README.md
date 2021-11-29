@@ -8,17 +8,10 @@ My name is [Andrew](https://ael2193.github.io/) and I am currently a Masters stu
 - 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/andrewedwardlai/).
 
 
-### Github Stats:
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ael2193)](https://github.com/ael2193/github-readme-stats)
 
 
 
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ael2193)](https://github.com/ael2193/github-readme-stats)
-
-
-<a href="https://github.com/ael2193/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ael2193" />
-</a>
-<a href="https://github.com/ael2193/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ael2193" />
-</a>
