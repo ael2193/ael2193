@@ -14,7 +14,7 @@ My name is [Andrew](https://ael2193.github.io/) and I am currently a Masters stu
 
 
 <a href="https://github.com/ael2193/github-readme-stats">
-  <img align="center" src="https://https://github-readme-stats.vercel.app/api/top-langs/?username=ael2193" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ael2193" />
 </a>
 <a href="https://github.com/ael2193/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ael2193" />
