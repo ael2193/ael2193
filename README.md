@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://ael2193.github.io//)
-
+My name is [Andrew](https://ael2193.github.io/) and I am currently a Masters student in Quantitative Methods in the Social Sciences at Columbia University
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
